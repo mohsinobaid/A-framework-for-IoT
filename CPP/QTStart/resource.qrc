@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>arduino.jpg</file>
+        <file>rasbpi.png</file>
+        <file>arduino.png</file>
+    </qresource>
+</RCC>
